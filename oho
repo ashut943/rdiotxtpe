@@ -1,0 +1,7 @@
+t=int(input())
+arrchoice=[0 for i in range(6)]
+plays=[]
+for t1 in range(t):
+    a1,a2=map(int,input().split())
+    x=(a1,a2)
+    plays.append(x)
