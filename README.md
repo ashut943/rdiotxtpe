@@ -1,7 +1,7 @@
 # Radiology-Text-Interpreter-Parser
 _Navigate to the PDF Document **finalrevisedfinalashutoshtripathiresearchpaperforinformaticsinmedicineunlocked-1.pdf** to read all the results, detailed methodology, insights, and inspirations for this project_
 
-_**PS**: To read all the resutls and the code in raw, navigate to the jupyter notebook named **FinalReview**_
+_**PS**: To read all the results and the code in raw, navigate to the jupyter notebook named **FinalReview**_
 ##  Introducton:
 A Rule-Based NLP approach to classifying Free-Text Radiology Reports based on existence of significant evidence for pleural effusion
 
